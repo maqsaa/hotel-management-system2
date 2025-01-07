@@ -1,0 +1,21 @@
+@font-face {
+  font-family: 'Inter';
+  src: url('./assets/fonts/Inter_Medium.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+body {
+  margin: 0;
+  font-family: 'Inter',sans-serif; 
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.font-bold{
+  font-family: 'Playwrite', sans-serif;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
